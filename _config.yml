@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "학생"
   location         : "대한민국, 서울"
-  email            : an9063@daum.net
+  email            : "an9063@daum.net"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
